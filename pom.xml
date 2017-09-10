@@ -17,7 +17,7 @@
     </parent>
     
      <!-- 进行聚合的子项目 --> 
-     <!-- 
+     <!-- 引用到的其他项目
      <modules>
 
      <module>spring-cloud-01-eureka-a</module>
