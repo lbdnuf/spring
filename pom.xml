@@ -270,5 +270,8 @@
     </build>    
     <modules>
     	<module>spring-cloud-01-eureka-server-a</module>
+    	<module>spring-cloud-01-provider</module>
+    	<module>spring-cloud-01-consumer</module>
+    	<module>spring-cloud-01-eureka-server-b</module>
     </modules>
 </project>
