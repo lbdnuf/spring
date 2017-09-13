@@ -273,5 +273,10 @@
     	<module>spring-cloud-01-provider</module>
     	<module>spring-cloud-01-consumer</module>
     	<module>spring-cloud-01-eureka-server-b</module>
+    	<module>spring-cloud-02-ribbon-eureka</module>
+    	<module>spring-cloud-02-ribbon-client-1</module>
+    	<module>spring-cloud-02-ribbon-client-2</module>
+    	<module>spring-cloud-02-ribbon-request-1</module>
+    	<module>spring-cloud-02-ribbon-request-2</module>
     </modules>
 </project>
